@@ -10,9 +10,9 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Javascript, Python, HTML**
+- 🔭 working on **Javascript, Python, HTML**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [b5se](https://discordapp.com/users/1250372439062478909) my username!
+- 🏠 drop me a **👋** on Discord –  [b5se](https://discordapp.com/users/1250372439062478909) my username!
 <!--Intro end-->
 
 
