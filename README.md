@@ -67,11 +67,16 @@
 <!-- HackerRank Certificates -->
 <div align="center">
   <h2>HackerRank Certificates</h2>
-  ![Certificate 1](https://github.com/or1z/or1z/blob/main/download.png)
-  ![Certificate 2](https://github.com/or1z/or1z/blob/main/download%20(1).png)
-  ![Certificate 3](https://github.com/or1z/or1z/blob/main/download%20(2).png)
-  ![Certificate 4](https://github.com/or1z/or1z/blob/main/download%20(3).png)
-  ![Certificate 5](https://github.com/or1z/or1z/blob/main/download%20(4).png)
+
+  [C# Basic](https://github.com/or1z/or1z/blob/main/download.png)
+
+  [SQL Basic](https://github.com/or1z/or1z/blob/main/download%20(3).png)
+
+  [SQL Intermediate](https://github.com/or1z/or1z/blob/main/download%20(1).png)
+
+  [SQL Advanced](https://github.com/or1z/or1z/blob/main/download%20(2).png)
+
+  [Python Basic](https://github.com/or1z/or1z/blob/main/download%20(4).png)
 </div>
 
 <!--profile visit count-->
